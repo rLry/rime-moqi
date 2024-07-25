@@ -1,0 +1,16 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Jul 24 19:34:44 2024"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": luna
+  "style/corner_radius": 1 # 圆角半径
+  "style/hilited_corner_radius": 0 # 选中框圆角半径 
+  "style/font_face": "LXGW WenKai Screen"
+  "style/font_point": 13
+  "style/label_font_face": "Arial" # 候选编号字体
+  "style/label_font_point": 13 # 候选编号大小
+  "style/comment_font_face": "LXGW WenKai Screen"
+  "style/comment_font_point": 13
