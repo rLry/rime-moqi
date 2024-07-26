@@ -126,9 +126,11 @@
 # 龙	ls	2
 # 森	sf	2
 # 林	lb	2
+淋	lbd	2
 闹	nc	2
 # 天	tm	2
 # 地	di	2
+弟	dib	2
 # 黄	hl	2
 # 牛	nq	2
 # 大	da	2
